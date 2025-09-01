@@ -184,7 +184,7 @@ class MainActivity : AppCompatActivity() {
                 }
               if (expression.last() in listOf('+','-','×','÷','%'))
                   {
-                  num.text = ""
+                  num.text = " "
                     return
                 }
                 try {
