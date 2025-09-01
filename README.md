@@ -17,4 +17,4 @@ This project demonstrates clean UI, smooth functionality, and support for essent
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Abiha1234-code/Calculator.git
+   git clone https://github.com/Abiha1234-code/Calculator-.git
